@@ -9,12 +9,11 @@
 
 ## كيفية الاستخدام:
 
-1. **الدخول للموقع**: [محفظ القرآن](https://mp30quran.github.io/mohaafz_quran/index.html)
-https://mp30quran.github.io/mohaafz_quran/index.html)
-
-
-
+1. **الدخول للموقع**: [محفظ القرآن] (https://mp30quran.github.io/mohaafz_quran/index.html)
 
 3. **تشغيل التلاوة**: اضغط على زر **تشغيل** لبدء التلاوة.
 
 4. **تكرار جزء**: لتكرار جزء معين، اضغط على زر **Loop** بعد تحديد بداية ونهاية المقطع عبر الرابط:
+
+5. **تلاوة خاشعة للقارئ ناصر القطامي**: شغل الرابط التالي و اضغط على زر loop الاخضر للتشغيل و يمكن اختيار مقطع معين عن طريق بداية الوقت و نهاية الوقت: [محفظ القرآن] ([https://mp30quran.github.io/mohaafz_quran/index.html](https://mp30quran.github.io/mohaafz_quran/index.html?track=46&start=391.647&end=725.577
+))
