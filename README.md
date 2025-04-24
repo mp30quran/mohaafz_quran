@@ -17,3 +17,13 @@
 
 4. **تلاوة خاشعة للقارئ ناصر القطامي**: شغل الرابط التالي واضغط على زر **Loop** الأخضر للتشغيل، ويمكنك اختيار مقطع معين عن طريق تحديد بداية الوقت ونهاية الوقت:
    [الرابط](https://mp30quran.github.io/mohaafz_quran/index.html?track=46&start=391.647&end=725.577)
+
+
+--
+
+
+![image](https://github.com/user-attachments/assets/66b1050b-0aa7-4e5f-808a-007cbd004a43)
+
+
+![image](https://github.com/user-attachments/assets/b6709401-cca9-43f6-b827-fc7b8e7db0bd)
+
