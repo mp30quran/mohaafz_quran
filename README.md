@@ -16,7 +16,7 @@
 3. **تكرار جزء**: لتكرار جزء معين، اضغط على زر **Loop** بعد تحديد بداية ونهاية المقطع عبر الرابط.
 
 4. **تلاوة خاشعة للقارئ ناصر القطامي**: شغل الرابط التالي واضغط على زر **Loop** الأخضر للتشغيل، ويمكنك اختيار مقطع معين عن طريق تحديد بداية الوقت ونهاية الوقت:
-   [الرابط](https://mp30quran.github.io/mohaafz_quran/index.html?track=46&start=391.647&end=725.577)
+   [الرابط](https://mp30quran.github.io/mohaafz_quran/index.html?surah=47&reciter=Nasser%20Al-Qatami&start=391.647&end=725.577)
 
 
 --
